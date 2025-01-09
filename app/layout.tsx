@@ -57,15 +57,15 @@ export default function RootLayout({
       <head>
         <meta charSet="utf-8" />
         <title>Aia88bet : Slot Member Baru di Kasih Menang Dan Situs Slot 100 New Member</title>
-        <meta name="description" content="18toto hadir sebagai solusi bagi pecinta slot online yang mencari kemudahan dan kenyamanan dalam bermain. Dengan fitur slot deposit 3000 via Dana, Anda dapat menikmati permainan seru tanpa harus mengeluarkan modal besar" />
-        <meta name="keywords" content="18toto, Deposit Dana 5000k, Situs Judi Online, Dana Slot77, situs Slot Dana, Gopay 69 Slot, Situs Slot Deposit 5000, Situs Slot Gacor Hari Ini Via Dana, Slot Deposit 3000 Via Dana, Situs Slot Gacor Jam Ini" />
-        <meta name="google-site-verification" content="veMyOTuOGYmEQDMDDL9R58xwmmCMdesJMcTMkYDqZ3Q" />
-        <meta name="application-name" content="18toto" />
+        <meta name="description" content="Aia88bet menawarkan peluang luar biasa bagi para pemain baru dengan program slot yang menarik. Sebagai situs slot terpercaya, Aia88bet memberikan bonus besar untuk member baru dengan menjanjikan kemenangan yang menguntungkan. Para pemain yang baru bergabung akan merasakan sensasi bermain dengan peluang menang yang lebih tinggi" />
+        <meta name="keywords" content="Aia88bet, Slot Member Baru di Kasih Menang, Situs Slot 100 New Member, Situs Resmi Pragmatic Slot, Website Resmi Pragmatic Slot, Deposit Via E Wallet, Situs Judi Online, Deposit Pulsa" />
+        <meta name="google-site-verification" content="n-b7PAUDg_WxicjZQaOef7EnRR2RKnmnNI_UYeckQ6w" />
+        <meta name="application-name" content="aia88bet" />
         <link rel="author" href={nameDomain} />
         <link rel="canonical" href={nameDomain} />
-        <meta name="author" content="18toto" />
-        <meta name="publisher" content="18toto" />
-        <meta name="copyright" content="18toto" />
+        <meta name="author" content="aia88bet" />
+        <meta name="publisher" content="aia88bet" />
+        <meta name="copyright" content="aia88bet" />
         <meta name="robots" content="index, follow" />
         <meta name="googlebot" content="index, follow" />
         <meta name="category" content="slot" />
@@ -82,14 +82,14 @@ export default function RootLayout({
         <meta property="og:title" content="Aia88bet : Slot Member Baru di Kasih Menang Dan Situs Slot 100 New Member" />
         <meta property="og:description" content="Aia88bet : Slot Member Baru di Kasih Menang Dan Situs Slot 100 New Member, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta property="og:url" content={nameDomain} />
-        <meta property="og:site_name" content="18toto" />
+        <meta property="og:site_name" content="aia88bet" />
         <meta property="og:locale" content="id_ID" />
         <meta property="og:image" content={nameDomain} />
         <meta property="og:image:width" content="840" />
         <meta property="og:image:height" content="480" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:creator" content="18toto" />
+        <meta name="twitter:creator" content="aia88bet" />
         <meta name="twitter:title" content="Aia88bet : Slot Member Baru di Kasih Menang Dan Situs Slot 100 New Member" />
         <meta name="twitter:description" content="Aia88bet : Slot Member Baru di Kasih Menang Dan Situs Slot 100 New Member, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta name="twitter:image" content={nameDomain} />
