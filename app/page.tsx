@@ -90,10 +90,10 @@ export default function Home() {
             </div>
             <h1>aia88bet 🔥 Situs Judi Resmi Deposit Dana Dan Slot Maxwin Terbesar!</h1>
             <p>
-              aia88bet muncul sebagai situs resmi yang menarik perhatian para pemain slot/casino/poker/baccarat/roulette/zeus. Dikenal karena menawarkan slot Maxwin terbesar, aia88bet menggabungkan rtp yang sangat akurat hingga 99%.
+              Aia88bet adalah pilihan utama bagi para pecinta permainan slot yang ingin merasakan pengalaman bermain yang menguntungkan. Dengan program khusus untuk member baru, Aia88bet memberikan kesempatan menang besar langsung setelah bergabung. Bukan hanya itu, situs ini juga menyambut 100 member baru setiap harinya dengan berbagai promo menarik yang pastinya akan menambah keseruan bermain. Apapun jenis permainan slot yang Anda pilih, Aia88bet memastikan setiap putaran memberikan peluang untuk meraih kemenangan yang lebih besar
             </p>
             <p>
-              aia88bet menyediakan pembayaran yang beragam dari E-wallet (Dana/Ovo/LinkAja/Sakuku/Jenius/Dll), QRIS yang cepat, serta beberapa bank national seperti BCA/BNI/MANDIRI/BRI!
+              Sebagai situs slot terpercaya, Aia88bet berkomitmen untuk memberikan pengalaman terbaik kepada para pemainnya. Fitur-fitur canggih dan tampilan antarmuka yang user-friendly membuat setiap sesi permainan semakin menyenangkan dan lancar. Dengan menawarkan bonus spesial untuk member baru, Aia88bet memastikan bahwa setiap pemain mendapatkan peluang yang sama untuk menang besar. Jadi, bagi Anda yang baru bergabung, jangan lewatkan kesempatan untuk mendapatkan kemenangan pertama Anda dengan berbagai promo eksklusif yang sudah menanti
             </p>
             
             <p>
